@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xAa96E39825FAdED6ECD320aB09dD9Cb5C876940F",
+  "SCAN_LINK": "https://polygonscan.com/address/0xaa96e39825faded6ecd320ab09dd9cb5c876940f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cryptid Society",
+  "SYMBOL": "CRYPT",
+  "MAX_SUPPLY": 49,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptidsociety",
+  "SHOW_BACKGROUND": true
+}
